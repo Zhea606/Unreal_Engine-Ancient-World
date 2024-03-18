@@ -14,7 +14,7 @@ Ancient World no solo es un proyecto en progreso, sino también un viaje de apre
 - **Blueprints y Lógica de Juego:** Mediante el uso de blueprints, pude dar vida a este pequeño universo, implementando mecánicas de juego nuevas para mi.
 - **Level Design:** La creación de niveles es un arte en sí mismo, y en Ancient World tuve la oportunidad de aprender a diseñar experiencias memorables que cautivan a los jugadores desde el primer momento.
 
-## Contribuciones
+##
 ¡Tú también puedes ser parte de esta aventura! Siéntete libre de explorar el código fuente, probar el juego y contribuir con tus propias ideas y mejoras. Juntos, podemos hacer de Ancient World una experiencia aún más extraordinaria.
 
 ¡Gracias por pasar por este proyecto!

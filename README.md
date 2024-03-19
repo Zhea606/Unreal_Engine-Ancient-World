@@ -19,6 +19,10 @@ Ancient World no solo es un proyecto en progreso, sino también un viaje de apre
 
 ¡Gracias por pasar por este proyecto!
 
+Mira aquí el video del gameplay --> [Video Gameplay](https://drive.google.com/file/d/1m82WCmBPYridsykJsdm_j_PRBNVpF-DM/view?usp=sharing)
+
 <img src="https://github.com/Zhea606/Unreal_Engine-Ancient-World/assets/69162988/ebcea231-cd55-4f89-af8e-ddb0f6ac0745" alt="Texto Alternativo" style="border-radius: 20px;color: blue">
+
+
 
 

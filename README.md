@@ -8,7 +8,7 @@
 - **Versión del Motor:** Iniciado en Unreal Engine 4, el proyecto fue posteriormente migrado a la versión 5 para aprovechar las últimas mejoras y funcionalidades.
 
 ## Aprendizaje y Desarrollo
-Ancient World no solo es un proyecto en progreso, sino también un viaje de aprendizaje y crecimiento. Aquí es donde adquirí habilidades y conocimientos fundamentales en el desarrollo de juegos, incluyendo:
+Ancient World es un proyecto realizado en el curso de Unreal Engine de Carlos Coronado, profesor avalado por Epic Games. Aquí es donde adquirí habilidades y conocimientos fundamentales en el desarrollo de juegos, incluyendo:
 - **Manejo Avanzado del Motor:** Desde los conceptos más básicos hasta un dominio mucho más avanzado, he explorado cada rincón de Unreal Engine.
 - **Diseño de Escenarios:** A lo largo del desarrollo, aprendí modelado de escenarios, creando mundos impresionantes y envolventes que invitan a la exploración.
 - **Blueprints y Lógica de Juego:** Mediante el uso de blueprints, pude dar vida a este pequeño universo, implementando mecánicas de juego nuevas para mi.
